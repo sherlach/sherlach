@@ -1,6 +1,12 @@
-# 🤔 🤔 🤔
+![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
 
-I'm probably going to update this later when I get a funky fresh idea, but not for a while yet...
+
+
+# I'm probably going to update this later when I get a funky fresh idea, but not for a while yet...
+
+*Psst! Like my github stats visualisation? Check it out [here!](https://github.com/jstrieb/github-stats)*
+
 <!--
 **sherlach/sherlach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
