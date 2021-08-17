@@ -1,5 +1,5 @@
-![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/sherlach/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/sherlach/github-stats/blob/master/generated/languages.svg)
 
 
 
